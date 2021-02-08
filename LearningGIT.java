@@ -6,7 +6,6 @@ public class LearningGIT {
 		if(number>0) {
 			for(int iter=0; iter<number; iter++) {
 				System.out.print("Learning phase: " + iter + "\t");
-				//I see some error here, so I am changing it!
 				System.out.println("Learning phase: " + iter + "\tComplete");
 			}
 		}
